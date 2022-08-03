@@ -1,0 +1,15 @@
+D:\repo\twoprog\two\tri\bin\Debug\net6.0\tri.exe
+D:\repo\twoprog\two\tri\bin\Debug\net6.0\tri.deps.json
+D:\repo\twoprog\two\tri\bin\Debug\net6.0\tri.runtimeconfig.json
+D:\repo\twoprog\two\tri\bin\Debug\net6.0\tri.dll
+D:\repo\twoprog\two\tri\bin\Debug\net6.0\tri.pdb
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.csproj.AssemblyReference.cache
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.AssemblyInfoInputs.cache
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.AssemblyInfo.cs
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.csproj.CoreCompileInputs.cache
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.dll
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\refint\tri.dll
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.pdb
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\tri.genruntimeconfig.cache
+D:\repo\twoprog\two\tri\obj\Debug\net6.0\ref\tri.dll
